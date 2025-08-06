@@ -8,7 +8,7 @@ It uses a bar chart to compare sales and expense categories, a pie chart to brea
 
 ---
 
-📁 [Download KinetiX Sales Dashboard](sales-dashboard-overall.xls)
+📁 [Download KinetiX Sales Dashboard](sales-dashboard-overall.xlsx)
 ---
 ![Dashboard Preview](sales-visualization-august-2023.png)
 
