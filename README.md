@@ -8,7 +8,7 @@ It uses a bar chart to compare sales and expense categories, a pie chart to brea
 
 ---
 
-📁 [Download Power BI Project File](sales-dashboard-overall)
+📁 [Download KinetiX Sales Dashboard](sales-dashboard-overall)
 ---
 ![Dashboard Preview](sales-visualization-august-2023.png)
 
