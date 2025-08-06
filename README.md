@@ -7,3 +7,9 @@ A sales visualization dashboard that summarizes **financial performance**, inclu
 It uses a bar chart to compare sales and expense categories, a pie chart to break down expenses and income, and circular graphs to show each customer's profit percentage for a specific quarter.
 
 ---
+
+📁 [Download Power BI Project File](sales-dashboard-overall)
+---
+![Dashboard Preview](sales-visualization-august-2023.png)
+
+---
