@@ -1,5 +1,6 @@
-# Sales-Dashboard-visualization
+# Sales-Dashboard-Visualization
 
+## 🔍 Objective
 ---
 A sales visualization dashboard that summarizes **financial performance**, including *total sales*, *profitability*, *various costs (RMC, factory, import, support & marketing)*, and *customer-wise* contributions. 
 
